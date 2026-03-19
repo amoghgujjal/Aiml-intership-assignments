@@ -1,0 +1,13 @@
+assignment 2(09-02-2026)
+
+List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines. 
+1) Google Search : ML learns from billions of searches to rank the best answers. 
+2) YouTube Recommendations : ML studies your watch history, likes, and time spent to predict your interest. 
+3) Instagram / Facebook Feed: ML analyses your likes, comments, shares, and scrolling behaviour. 
+4) Google Maps Navigation : ML uses real-time traffic data from users to predict congestion. 
+5) Email Spam Filter : ML learns patterns from millions of spam emails and detects similar messages. 
+6) Voice Assistants (Google Assistant, Alexa): ML converts speech to text and predicts the correct response using language models. 
+7) Netflix / Amazon Recommendations : ML compares your behaviour with similar users (collaborative filtering). 
+8) Smartphone Face Unlock: ML uses deep learning to detect facial features and match them with stored data. 
+9) Online Shopping Ads: ML tracks browsing history and predicts what you may buy. 
+10) Auto-correct & Predictive Text: ML predicts next word based on sentence patterns and past typing data.
